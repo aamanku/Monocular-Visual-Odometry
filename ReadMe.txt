@@ -1,6 +1,6 @@
 CISC 642 Final Project
 Abhijeet Mangesh Kulkarni
-UDID 702525838
+amkulk@udel.edu
 
 files:
 Main.py						-main file to run
